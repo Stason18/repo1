@@ -1,2 +1,1 @@
-#privet mir
-#commit 1
+#it si my app
